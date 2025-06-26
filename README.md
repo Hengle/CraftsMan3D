@@ -70,7 +70,7 @@ We present a novel generative 3D modeling system, coined CraftsMan, which can ge
 - [x] support rectified flow training
 - [x] support [flashVDM](https://github.com/Tencent/FlashVDM/tree/main), thanks for their open-source
 - [ ] release multiview(4 views) conditioned model (including weights and training data sample) 
-- [ ] add data for vae training
+- [x] add data for vae training, we release the data preprocessing script in `watertight_and_sampling.py`
 - [ ] support training and finetuning TripoSG model (almost done)
 - [ ] support training Hunyuan3D-2 model(it is not release the weights for vae encoder)
 
